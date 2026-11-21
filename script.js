@@ -20,7 +20,7 @@ document.getElementById('siBtn').addEventListener('click', function() {
 
     
     document.getElementById('messageContainer').style.display = 'block';
-    document.getElementById('messageContainer').innerHTML = 'anh hông ngờ tới luôn đó, iu bé lắm luônnn:3';
+    document.getElementById('messageContainer').innerHTML = 'anh hông ngờ tới luôn đó, iu bé lắm luônnn❤️❤️❤️';
 
     
     setTimeout(function() {
